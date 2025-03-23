@@ -2,8 +2,6 @@
 
 [![Build Status](https://github.com/LiangLliu/auto-green/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/LiangLliu/auto-green/actions)
 
-https://github.com/LiangLliu/auto-green/actions/workflows/ci.yml/badge.svg?branch=master
-
 自动保持 GitHub 提交状态常绿。
 
 > a commit a day keeps your girlfriend away.
