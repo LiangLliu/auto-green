@@ -21,7 +21,7 @@ away"
 
 - 点右上角 **Use this template** 按钮复制本 GitHub 仓库，**:warning: 千万不要 Fork，因为 fork 项目的动态并不会让你变绿 :
   warning:**
-- 修改 [ci.yml 文件的第 18、19 行](https://github.com/LiangLliu/auto-green/blob/master/.github/workflows/ci.yml#L18) 为自己的
+- 修改 [ci.yml 文件的第 19、20 行](https://github.com/LiangLliu/auto-green/blob/master/.github/workflows/ci.yml#L19) 为自己的
   GitHub 邮箱和用户名
 - (可选)
   你可以通过修改 [ci.yml 文件的第 8 行](https://github.com/LiangLliu/auto-green/blob/master/.github/workflows/ci.yml#L8)

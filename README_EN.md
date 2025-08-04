@@ -21,7 +21,7 @@ question "[What's it like to maintain 365 days of green on GitHub?](https://www.
 
 - Click the **Use this template** button in the upper right corner to copy this GitHub repository. **:warning: Never
   Fork this repo, because fork projects' activities won't make you green :warning:**
-- Modify [lines 18 and 19 of the ci.yml file](https://github.com/LiangLliu/auto-green/blob/master/.github/workflows/ci.yml#L18)
+- Modify [lines 19 and 20 of the ci.yml file](https://github.com/LiangLliu/auto-green/blob/master/.github/workflows/ci.yml#L19)
 to your own GitHub email and username
 - (Optional) You can adjust the frequency by
   modifying [line 8 of the ci.yml file](https://github.com/LiangLliu/auto-green/blob/master/.github/workflows/ci.yml#L8)
